@@ -1,6 +1,8 @@
 # Appointy
-Internship Task
-Designed and Developed an HTTP JSON API capable of the following operations,
+Internship Task:
+
+Designed and Developed an HTTP JSON API capable of the following operations
+
 Created an User
 Created a Post
 Listed all posts of a user
@@ -12,13 +14,15 @@ Passwords are securely stored such they can't be reverse engineered
 Added pagination to the list endpoint
 Added unit tests
 
-Users have the following attributes
+Users have the following attributes:
+
 Id
 Name
 Email
 Password
 
-Posts have the following Attributes.
+Posts have the following Attributes:
+
 Caption
 Image URL
 Posted Timestamp

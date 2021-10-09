@@ -104,11 +104,8 @@ type User struct {
 
 	ID                         int64   `json:"pk"`
 	Username                   string  `json:"username"`
-	FullName                   string  `json:"full_name"`
-	Biography                  string  `json:"biography"`
-	ProfilePicURL              string  `json:"profile_pic_url"`
 	Email                      string  `json:"email"`
-	PhoneNumber                string  `json:"phone_number"`
+	Password                   string  `json:"password"`
 	
 }
 
